@@ -28,7 +28,7 @@ Rishav Roy (rr4577@nyu.edu)
 
 ### Office Hours
 Jean Ponce: Wednesdays 2:00pm-3:00pm at **Room 300, 60 5th Ave**  \
-Long Chen: Thursdays 2:00pm-3:00pm at **Location TBD**
+Long Chen: Thursdays 2:00pm-3:00pm at **Room 242, 60 5th Ave**
 
 
 ### Grading
