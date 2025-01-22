@@ -80,7 +80,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 
 | Date  | Lecture               | Topic | Link                                                                                          |
 | ----- | ------------------------ | ------| --------------------------------------------------------------------------------------------- |
-| 01/23 | Lab: Course Intro     | Logistics       | |
+| 01/23 | Lab: Course Intro     | Introduction & Logistics       | |
 | 01/27 | Lecture 1     | Introduction to Computer Vision       | |
 
 
