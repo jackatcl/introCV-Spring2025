@@ -78,9 +78,9 @@ We do not require purchase of any textbooks and the course will be self-containe
 
 *Note*: This table will get populated as the semester goes. Lecture and lab slides will be posted after each session.
 
-| Date  | Lecture               | Topic | Link                                                                                          |
+| Date  | Lecture               | Topic | Links                                                                                          |
 | ----- | ------------------------ | ------| --------------------------------------------------------------------------------------------- |
-| 01/23 | Lab: Course Intro     | Introduction & Logistics       | |
+| 01/23 | Lab1     | Introduction & Logistics       | <a href="http://www.di.ens.fr/~ponce/lect1.pptx">Slides</a> |
 | 01/27 | Lecture 1     | Introduction to Computer Vision       | |
 
 
