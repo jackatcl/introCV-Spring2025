@@ -80,9 +80,9 @@ We do not require purchase of any textbooks and the course will be self-containe
 
 | Date  | Lecture               | Topic | Links                                                                                          |
 | ----- | ------------------------ | ------| --------------------------------------------------------------------------------------------- |
-| 01/23 | Lab1     | Introduction & Logistics       | <a href="http://www.di.ens.fr/~ponce/lect1.pptx">[Slides]</a> |
+| 01/23 | Lab1     | Introduction & Logistics       | <a href="https://www.di.ens.fr/~ponce/lect1.pptx">PDF</a> |
 | 01/27 | Lecture 1     | Introduction to Computer Vision       | |
 
 
 ### Acknowledgements
-Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. This page refers to <a href="https://esizikova.github.io/introCV-spring2022/">cousrse website</a> of previous section by Elena Sizikova. Website was originally designed by Matthew Trager.
+Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. This page refers to <a href="https://esizikova.github.io/introCV-spring2022/">course website</a> of previous section by Elena Sizikova. Website was originally designed by Matthew Trager.
