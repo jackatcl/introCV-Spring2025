@@ -81,7 +81,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | Date  | Lecture               | Topic | Links                                                                                          |
 | ----- | ------------------------ | ------| --------------------------------------------------------------------------------------------- |
 | 01/23 | Lab1     | Introduction & Logistics       | <a href="https://www.di.ens.fr/~ponce/lect1.pptx">[Slide]</a> |
-| 01/27 | Lecture 1     | Introduction to Computer Vision       | |
+| 01/27 | Lecture 1     | Introduction to Computer Vision       | <a href="https://urldefense.proofpoint.com/v2/url?u=http-3A__www.di.ens.fr_-7Eponce_lect2.pptx&d=DwICaQ&c=slrrB7dE8n7gBJbeO0g-IQ&r=lUrpNO8xPk7ulNCYqDq1cA&m=BJhGIWkNiT8BFAYyKlST6SdAL3Zt4pgAGghFwg_tsWC6pNjYgbFWIz7SC-8NRzEa&s=Ju9tZYpULVsgB9NW99MoaBGH2caWPTayAlkVXk6vf_8&e=">[Slide]</a> |
 
 
 ### Acknowledgements
