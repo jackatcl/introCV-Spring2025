@@ -86,7 +86,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/03 | Lecture 4     | Camera geometry and calibration II       | <a href="https://docs.google.com/presentation/d/1rJJDl-FF6vBfNLpssOemIQcRfWEEsrYL/edit?usp=sharing&ouid=117912632571976346302&rtpof=true&sd=true">[Slide]</a> |
 | 02/06 | Lab 1     | Preview of Homework 1       | <a href="https://drive.google.com/file/d/1VF82msNocS9qiuuPJuHTJD9VhIL9g9Ri/view?usp=sharing">[Notes]</a> |
 | 02/10 | Lecture 5     | Image Processing      | <a href="https://drive.google.com/file/d/1XGB6hrCqC3PrWeDG68B7zxws1wWzLfbd/view?usp=sharing">[Slide]</a> |
-| 02/13 | Lecture 6     | Canny Edge Detection      | <a href="https://docs.google.com/presentation/d/14HmQmWEkC_DEDTyaDF1nig7cKurWkZ2L/edit?usp=sharing&ouid=117912632571976346302&rtpof=true&sd=true">[Slide]</a> |
-| 02/18 | Lecture 7     | Image Processing II      | <a href="https://docs.google.com/presentation/d/1WDq9yJKQ_qjDmkJOZIH91TZ5H5ewSzLS/edit?usp=sharing&ouid=117912632571976346302&rtpof=true&sd=true">[Slide]</a>|
+| 02/13 | Lecture 6     | Canny Edge Detection      | <a href="https://docs.google.com/presentation/d/14HmQmWEkC_DEDTyaDF1nig7cKurWkZ2L/edit?usp=sharing">[Slide]</a> |
+| 02/18 | Lecture 7     | Image Processing II      | <a href="https://docs.google.com/presentation/d/1WDq9yJKQ_qjDmkJOZIH91TZ5H5ewSzLS/edit?usp=sharing">[Slide]</a>|
 ### Acknowledgements
 Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. This page refers to <a href="https://esizikova.github.io/introCV-spring2022/">course website</a> of previous section by Elena Sizikova. Website was originally designed by Matthew Trager.
