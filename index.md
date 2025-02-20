@@ -88,6 +88,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/10  | Lecture 5 | Image Processing | [Slide](https://drive.google.com/file/d/1XGB6hrCqC3PrWeDG68B7zxws1wWzLfbd/view?usp=sharing) |
 | 02/13  | Lecture 6 | Canny Edge Detection | [Slide](https://docs.google.com/presentation/d/14HmQmWEkC_DEDTyaDF1nig7cKurWkZ2L/edit?usp=sharing) |
 | 02/18  | Lecture 7 | Image Processing II | [Slide](https://docs.google.com/presentation/d/1WDq9yJKQ_qjDmkJOZIH91TZ5H5ewSzLS/edit?usp=sharing) |
+| 02/20  | Lecture 8 | Radiometry and color | [Slide](https://docs.google.com/presentation/d/1EUgUNxO4SffPanEGIwwNuEemIGt1ZfWC/edit?usp=sharing) |
 
 ### Acknowledgements
 Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. This page refers to <a href="https://esizikova.github.io/introCV-spring2022/">course website</a> of previous section by Elena Sizikova. Website was originally designed by Matthew Trager.
