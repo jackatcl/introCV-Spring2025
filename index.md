@@ -38,9 +38,7 @@ grade) + class participation and attendance (5%) + lab participation and attenda
 
 **Assignments (50%)** \
 HW 1 (Release on 1/31, Due 2/20): TBA \
-HW 2 (Release on 2/21, Due 3/6): TBA  \
-HW 3 (Release on 3/7, Due 3/27): TBA  \
-HW 4 (Release on 3/28, Due 4/17): TBA
+HW 2 (Release on 2/21, Due 3/13): TBA  
 
 **Final Project (40%)** \
 Details TBA.
@@ -89,6 +87,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/13  | Lecture 6 | Canny Edge Detection | [Slide](https://docs.google.com/presentation/d/14HmQmWEkC_DEDTyaDF1nig7cKurWkZ2L/edit?usp=sharing) |
 | 02/18  | Lecture 7 | Image Processing II | [Slide](https://docs.google.com/presentation/d/1WDq9yJKQ_qjDmkJOZIH91TZ5H5ewSzLS/edit?usp=sharing) |
 | 02/20  | Lecture 8 | Radiometry and color | [Slide](https://docs.google.com/presentation/d/1EUgUNxO4SffPanEGIwwNuEemIGt1ZfWC/edit?usp=sharing) |
+
 
 ### Acknowledgements
 Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. This page refers to <a href="https://esizikova.github.io/introCV-spring2022/">course website</a> of previous section by Elena Sizikova. Website was originally designed by Matthew Trager.
