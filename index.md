@@ -87,6 +87,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/13  | Lecture 6 | Canny Edge Detection | [Slide](https://docs.google.com/presentation/d/14HmQmWEkC_DEDTyaDF1nig7cKurWkZ2L/edit?usp=sharing) |
 | 02/18  | Lecture 7 | Image Processing II | [Slide](https://docs.google.com/presentation/d/1WDq9yJKQ_qjDmkJOZIH91TZ5H5ewSzLS/edit?usp=sharing) |
 | 02/20  | Lecture 8 | Radiometry and color | [Slide](https://docs.google.com/presentation/d/1EUgUNxO4SffPanEGIwwNuEemIGt1ZfWC/edit?usp=sharing) |
+| 02/24  | Lecture 9 | Radiometry | [Slide](https://docs.google.com/presentation/d/1aVMPI_Cp0YlQMIxKcFO8_WD5YbGpgj_R/edit?usp=sharing) |
 
 
 ### Acknowledgements
