@@ -43,7 +43,7 @@ HW 2 (Release on 2/21, Due 3/13): TBA
 **Final Project (40%)** \
 The projects will consist of choosing a paper (or multiple relevant papers) related to the contents of the class (but not covered in class), implement the methods, and provide experiment results illustrating the method along with comparisons to related work. **Projects can be done individually or in groups of at most 3 people.**
 
-The project is consisted of three components:
+**The project is consisted of three components:**
 
 1. Choose a topic and write a short abstract (around 150 words). Please submit the abstract using this form by March 14th using this link.
 2. An in-person presentation at the end of the semester. More details to be shared.
@@ -95,6 +95,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/20  | Lecture 8 | Radiometry and color | [Slide](https://docs.google.com/presentation/d/1EUgUNxO4SffPanEGIwwNuEemIGt1ZfWC/edit?usp=sharing) |
 | 02/24  | Lecture 9 | Radiometry | [Slide](https://docs.google.com/presentation/d/1aVMPI_Cp0YlQMIxKcFO8_WD5YbGpgj_R/edit?usp=sharing) |
 | 02/27  | Lab 2 | Preview of HW 2, NMS, RANSAC | [Jupyter](https://drive.google.com/file/d/1xkzOsUD0yxy-HwBVTa4pknqXE2_6b-x3/view?usp=sharing) |
+
 
 
 ### Acknowledgements
