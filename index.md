@@ -95,6 +95,8 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/20  | Lecture 8 | Radiometry and color | [Slide](https://docs.google.com/presentation/d/1EUgUNxO4SffPanEGIwwNuEemIGt1ZfWC/edit?usp=sharing) |
 | 02/24  | Lecture 9 | Radiometry | [Slide](https://docs.google.com/presentation/d/1aVMPI_Cp0YlQMIxKcFO8_WD5YbGpgj_R/edit?usp=sharing) |
 | 02/27  | Lab 2 | Preview of HW 2, NMS, RANSAC | [Jupyter](https://drive.google.com/file/d/1xkzOsUD0yxy-HwBVTa4pknqXE2_6b-x3/view?usp=sharing) |
+| 03/03  | Lecture 10 | Color, Stereopsis and Two-view Geometry | [Slide](https://docs.google.com/presentation/d/1298xRWehiEaxVhUJBYZ8xW_e5bl6JNzV/edit?usp=sharing) |
+| 03/06  | Lecture 11 | Stereopsis | [Slide](https://docs.google.com/presentation/d/1lbQKoMBvlsVFNubxV2lb-I27B7prvyb6/edit?usp=sharing) |
 
 
 
