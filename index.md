@@ -97,6 +97,8 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/27  | Lab 2 | Preview of HW 2, NMS, RANSAC | [Jupyter](https://drive.google.com/file/d/1xkzOsUD0yxy-HwBVTa4pknqXE2_6b-x3/view?usp=sharing) |
 | 03/03  | Lecture 10 | Color, Stereopsis and Two-view Geometry | [Slide](https://docs.google.com/presentation/d/1298xRWehiEaxVhUJBYZ8xW_e5bl6JNzV/edit?usp=sharing) |
 | 03/06  | Lecture 11 | Stereopsis | [Slide](https://docs.google.com/presentation/d/1lbQKoMBvlsVFNubxV2lb-I27B7prvyb6/edit?usp=sharing) |
+| 03/10  | Lecture 12 | Two-view geometry | [Slide](https://docs.google.com/presentation/d/1iNjI4ma3hY4Ou_CXwJU0WZGKGmMl85Uy/edit?usp=sharing) |
+| 03/14  | Lecture 13 | Binocular stereopsis | [Slide](https://docs.google.com/presentation/d/1pWTALy1yYDMTJwCk6Wjnn0E1uHO3ce4M/edit?usp=sharing) |
 
 
 
