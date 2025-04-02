@@ -37,8 +37,9 @@ Four programming assignments (50% of the grade) + final project (40% of the
 grade) + class participation and attendance (5%) + lab participation and attendance (5%). Deliverables should be submitted using the brightspace site and is due at the end of the day (11:59pm ET) on the dates given. There will be **no extension allowed** unless prior communication and agreements are made with the instruction team.
 
 **Assignments (50%)** \
-HW 1 (Release on 1/31, Due 2/20): TBA \
-HW 2 (Release on 2/21, Due 3/13): TBA  
+HW 1 (Released on 1/31, Due 2/20): Camera Calibration \
+HW 2 (Released on 2/21, Due 3/13): Canny Edge Detection \  
+HW 3 (Released on 3/18, Due 4/11): Weak Calibration, Essential Matrices \ 
 
 **Final Project (40%)** \
 The projects will consist of choosing a paper (or multiple relevant papers) related to the contents of the class (but not covered in class), implement the methods, and provide experiment results illustrating the method along with comparisons to related work. **Projects can be done individually or in groups of at most 3 people.**
@@ -98,7 +99,11 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/03  | Lecture 10 | Color, Stereopsis and Two-view Geometry | [Slide](https://docs.google.com/presentation/d/1298xRWehiEaxVhUJBYZ8xW_e5bl6JNzV/edit?usp=sharing) |
 | 03/06  | Lecture 11 | Stereopsis | [Slide](https://docs.google.com/presentation/d/1lbQKoMBvlsVFNubxV2lb-I27B7prvyb6/edit?usp=sharing) |
 | 03/10  | Lecture 12 | Two-view geometry | [Slide](https://docs.google.com/presentation/d/1iNjI4ma3hY4Ou_CXwJU0WZGKGmMl85Uy/edit?usp=sharing) |
-| 03/14  | Lecture 13 | Binocular stereopsis | [Slide](https://docs.google.com/presentation/d/1pWTALy1yYDMTJwCk6Wjnn0E1uHO3ce4M/edit?usp=sharing) |
+| 03/13  | Lecture 13 | Binocular stereopsis | [Slide](https://docs.google.com/presentation/d/1pWTALy1yYDMTJwCk6Wjnn0E1uHO3ce4M/edit?usp=sharing) |
+| 03/17  | Guest Lecture | Alberto Bietti: Diffusion Models | [Slide](https://docs.google.com/presentation/d/1hqWrTcJthLtLgjjwE3QljHHHhIwv1jG56JV5fgtdJ4c/edit?usp=sharing) |
+| 03/20  | Lab 3 | Preview of HW3, Intro to PyTorch | [Notebook](https://drive.google.com/file/d/1lWtfJe-2AkkfQYa5qwXlDVSlmVvjlk1W/view?usp=sharing) |
+| 03/31  | Lecture 14 | Structure from motion | [Slide](https://docs.google.com/presentation/d/1MjLIL1D-3afSI7JVX9MNWOJWQeRQS8Eq/edit?usp=sharing) |
+
 
 
 
