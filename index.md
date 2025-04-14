@@ -103,6 +103,10 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/17  | Guest Lecture | Alberto Bietti: Diffusion Models | [Slide](https://docs.google.com/presentation/d/1hqWrTcJthLtLgjjwE3QljHHHhIwv1jG56JV5fgtdJ4c/edit?usp=sharing) |
 | 03/20  | Lab 3 | Preview of HW3, Intro to PyTorch | [Notebook](https://drive.google.com/file/d/1lWtfJe-2AkkfQYa5qwXlDVSlmVvjlk1W/view?usp=sharing) |
 | 03/31  | Lecture 14 | Structure from motion | [Slide](https://docs.google.com/presentation/d/1MjLIL1D-3afSI7JVX9MNWOJWQeRQS8Eq/edit?usp=sharing) |
+| 04/03  | Lecture 15 | Structure from motion II | [Slide](https://docs.google.com/presentation/d/1FJgyAPFOopxlySwVDN4FbluLEe6PkXmV/edit?usp=sharing) |
+| 04/07  | Lecture 16 | Structure from motion III | [Slide](https://docs.google.com/presentation/d/1iytVXfXLEgrhxPFW1rJLQ3U5S8srboQ_/edit?usp=sharing) |
+| 04/10  | Lecture 17 | Self Calibration | [Slide](https://docs.google.com/presentation/d/1BMRO6Nwz5puMinCePlXQFyDui9z6rSDP/edit?usp=sharing) |
+| 04/14  | Lecture 18 | Multi-view | [Slide](https://docs.google.com/presentation/d/1DsQPDcLg516dcd3_mUvGjVEKxH0c7THc/edit?usp=sharing) |
 
 
 
