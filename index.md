@@ -37,9 +37,10 @@ Four programming assignments (50% of the grade) + final project (40% of the
 grade) + class participation and attendance (5%) + lab participation and attendance (5%). Deliverables should be submitted using the brightspace site and is due at the end of the day (11:59pm ET) on the dates given. There will be **no extension allowed** unless prior communication and agreements are made with the instruction team.
 
 **Assignments (50%)** \
-HW 1 (Released on 1/31, Due 2/20): Camera Calibration \
-HW 2 (Released on 2/21, Due 3/13): Canny Edge Detection \  
-HW 3 (Released on 3/18, Due 4/11): Weak Calibration, Essential Matrices \ 
+HW 1: Camera Calibration \
+HW 2: Canny Edge Detection \
+HW 3: Weak Calibration, Essential Matrices \
+HW 4: Mean Shift
 
 **Final Project (40%)** \
 The projects will consist of choosing a paper (or multiple relevant papers) related to the contents of the class (but not covered in class), implement the methods, and provide experiment results illustrating the method along with comparisons to related work. **Projects can be done individually or in groups of at most 3 people.**
@@ -108,7 +109,11 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/10  | Lecture 17 | Self Calibration | [Slide](https://docs.google.com/presentation/d/1BMRO6Nwz5puMinCePlXQFyDui9z6rSDP/edit?usp=sharing) |
 | 04/14  | Lecture 18 | Multi-view | [Slide](https://docs.google.com/presentation/d/1DsQPDcLg516dcd3_mUvGjVEKxH0c7THc/edit?usp=sharing) |
 | 04/15  | Lecture 19 | Texture and segmentation | [Slide](https://docs.google.com/presentation/d/1KU4d2JRMLoo7dty2TbfOE7VHJcWDb3IN/edit?usp=sharing) [Recording](https://nyu.zoom.us/rec/play/bVyk1DqLPPdDQcoDZW9h380yLj2coINapuX2_jRUuLo39t5BcJuba2HcRNFsGDNwCSPJQoFsGxAewgEa.UOe63n2e7pbV4dKJ)|
-
+| 04/17  | Lecture 20 | Object Recognition | [Slide](https://docs.google.com/presentation/d/1AWQ63U3Fc5K1LPUiUs2DkDRauyHd0FLa/edit?usp=sharing&ouid=117912632571976346302&rtpof=true&sd=true) |
+| 04/24  | Lab 4 | Preview of HW 4, Object Recognition | [Notebook](https://drive.google.com/file/d/1GMVyZgp0en3nTS9EXyfi1AvqFKpdnBjo/view?usp=sharing) |
+| 04/28  | Lecture 21 | Object Recognition II | [Slide](https://docs.google.com/presentation/d/1do7U9H5Pwwci-y_rVNgITMzUVvu7pStK/edit?usp=sharing&ouid=117912632571976346302&rtpof=true&sd=true) |
+| 05/01  | Lecture 22 | Neural Networks | [Slide](https://docs.google.com/presentation/d/1x_xSAYNXnmy7qd7eNJ3ejo7cuej5mrcs/edit?usp=sharing&ouid=117912632571976346302&rtpof=true&sd=true) |
+| 05/05  | Lecture 23 | Neural Networks II | [Slide](https://docs.google.com/presentation/d/1G-GXf5K-fjcY1x_P4ThPI70TyISuc2p9/edit?usp=sharing&ouid=117912632571976346302&rtpof=true&sd=true) |
 
 ### Acknowledgements
 Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. This page refers to <a href="https://esizikova.github.io/introCV-spring2022/">course website</a> of previous section by Elena Sizikova. Website was originally designed by Matthew Trager.
